@@ -49,7 +49,7 @@ DEFAULT_REQUEST_HEADERS = {
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
     'Accept-Language': 'zh-CN,zh;q=0.9',
     'Upgrade-Insecure-Requests': '1',
-    'Cookie': 'security_session_verify=f7ca17cf4edd318bf899a9a08fea75d9; security_session_mid_verify=1c584075e75810f58a7b1f57b0b9a9b0; Hm_lvt_42a9b1b1d382d464c04bb82b4916af4d=1592473387; Hm_lpvt_42a9b1b1d382d464c04bb82b4916af4d=1592477045',
+    'Cookie': 'security_session_verify=f7ca17cf4edd318bf899a9a08fea75d9; security_session_mid_verify=1c584075e75810f58a7b1f57b0b9a9b0; Hm_lvt_42a9b1b1d382d464c04bb82b4916af4d=1592473387,1592537519; Hm_lpvt_42a9b1b1d382d464c04bb82b4916af4d=1592537524',
     'Cache-Control': 'no-cache',
     'Connection': 'keep-alive'
 }
